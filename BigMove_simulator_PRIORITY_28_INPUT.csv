@@ -1,0 +1,29 @@
+﻿case_id,symbol,selection_date_T0,entry_date_T1,engine,rank,stock_state_T0,market_environment_T0
+PATH-0001,BAJAJ-AUTO,2023-11-16,2023-11-17,D,1,S03 Bull consolidation,Broad bullish
+PATH-0002,GMRP&UI,2024-07-09,2024-07-10,ENS,2,S03 Bull consolidation,Broad bullish
+PATH-0003,PSB,2024-04-08,2024-04-09,ENS,2,S03 Bull consolidation,Broad bullish
+PATH-0004,JWL,2022-11-04,2022-11-07,ENS,3,S03 Bull consolidation,Broad bullish
+PATH-0005,DCW,2022-11-16,2022-11-17,ENS,3,S09 Emerging bear,Narrow bullish
+PATH-0006,KPEL,2026-08-14,2026-08-17,D,1,S09 Emerging bear,Narrow bullish
+PATH-0007,TSFINV,2025-11-10,2025-11-11,ENS,2,S09 Emerging bear,Narrow bullish
+PATH-0008,NITINSPIN,2022-03-30,2022-03-31,D,3,S09 Emerging bear,Narrow bullish
+PATH-0009,GFLLIMITED,2024-03-28,2024-04-01,D,3,S08 Bear continuation,Narrow bullish
+PATH-0010,SHAKTIPUMP,2025-12-05,2025-12-08,ENS,2,S08 Bear continuation,Narrow bullish
+PATH-0011,AQYLON,2026-07-28,2026-07-29,D,1,S08 Bear continuation,Narrow bullish
+PATH-0012,JKIL,2022-10-20,2022-10-21,ENS,1,S08 Bear continuation,Narrow bullish
+PATH-0013,UCOBANK,2023-02-21,2023-02-22,ENS,1,S09 Emerging bear,Broad bearish
+PATH-0014,ASHOKA,2025-02-27,2025-02-28,D,2,S09 Emerging bear,Broad bearish
+PATH-0015,SUMMITSEC,2025-02-20,2025-02-21,ENS,3,S09 Emerging bear,Broad bearish
+PATH-0016,PUNJABCHEM,2022-10-17,2022-10-18,D,1,S09 Emerging bear,Broad bearish
+PATH-0017,GULPOLY,2022-02-22,2022-02-23,D,3,S09 Emerging bear,HIGH STRESS
+PATH-0018,BLUEJET,2025-04-07,2025-04-08,ENS,3,S09 Emerging bear,HIGH STRESS
+PATH-0019,JAICORPLTD,2025-01-06,2025-01-07,D,1,S09 Emerging bear,HIGH STRESS
+PATH-0020,PARACABLES,2023-03-16,2023-03-17,ENS,1,S09 Emerging bear,HIGH STRESS
+PATH-0021,AEGISLOG,2026-07-14,2026-07-15,ENS,2,S01 Strong bull,Narrow bullish
+PATH-0022,CUPID,2025-09-10,2025-09-11,D,2,S01 Strong bull,Narrow bullish
+PATH-0023,BLISSGVS,2026-07-14,2026-07-15,D,1,S01 Strong bull,Narrow bullish
+PATH-0024,URJA,2022-02-01,2022-02-02,D,2,S01 Strong bull,Narrow bullish
+PATH-0025,PCJEWELLER,2024-10-10,2024-10-11,D,3,S01 Strong bull,Mixed / ranging
+PATH-0026,NACLIND,2025-07-25,2025-07-28,ENS,2,S01 Strong bull,Mixed / ranging
+PATH-0027,BIRLAMONEY,2025-01-01,2025-01-02,D,2,S01 Strong bull,Mixed / ranging
+PATH-0028,WEBELSOLAR,2024-11-12,2024-11-13,ENS,2,S01 Strong bull,Mixed / ranging
